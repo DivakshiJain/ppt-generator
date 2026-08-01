@@ -1,8 +1,11 @@
 streamlit
 langchain
 pytesseract
-langchain_groq
-langchain_google_genai
+langchain-groq
+langchain-google-genai
 numpy
 langchain_community
-tavily
+tavily-python
+pandas
+matplotlib
+seaborn
